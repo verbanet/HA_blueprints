@@ -591,6 +591,8 @@ blueprint:
                   value: /ccab4aaf_frigate-proxy/dashboard
                 - label: Open Reolink App (Android)
                   value: app://com.mcu.reolink
+                - label: Open Reolink App (iOS)
+                  value: fb1675493782511558://
                 - label: Custom Action (Manual Trigger)
                   value: custom-{{ camera }}
               custom_value: true
@@ -667,6 +669,8 @@ blueprint:
                   value: /ccab4aaf_frigate-proxy/dashboard
                 - label: Open Reolink App (Android)
                   value: app://com.mcu.reolink
+                - label: Open Reolink App (iOS)
+                  value: fb1675493782511558://
                 - label: Custom Action (Manual Trigger)
                   value: custom-{{ camera }}
               custom_value: true
